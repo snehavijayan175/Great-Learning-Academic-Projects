@@ -2,8 +2,8 @@ This Contains All the ML & AI Projects that I have done while understanding Conc
 
 
 1.	Supervised Learning –
-•Medical : Patient Condition Prediction
-•Banking : Predicting Loan Eligibility
+• Medical : Patient Condition Prediction
+• Banking : Predicting Loan Eligibility
 2.	Unsupervised Learning –
     •	Automobile : Segment Categorization Of Cars
     •	Automobile : Vehicle Silhouette Classification
